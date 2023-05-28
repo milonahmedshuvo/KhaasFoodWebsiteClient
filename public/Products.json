@@ -1,0 +1,403 @@
+[
+    {
+        "categori": "FRUITS",
+        "title": "Hilly Banana (বাংলা কলা)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 160",
+        "SKU": "banana-bangla-1-dozen",
+        "Categories": " Hilly Bazar, Fruits, Mountain fruits",
+        "Quantity": "1 Dozen",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/06/Banana-Bangla.jpg"
+    },
+    {
+        "categori": "FRUITS",
+        "title": "Hilly Red Lady Papaya (পেঁপে)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 155",
+        "SKU": "papaya-red-lady-1-kg",
+        "Categories": "Hilly Bazar, Fruits, Mountain fruits",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/06/Papaya-Red-Lady.jpg"
+    },
+    {
+        "categori": "FRUITS",
+        "title": "Hilly Wood Apple (বেল)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 110",
+        "SKU": "wood-apple-1-pc",
+        "Categories": "Hilly Bazar, Fruits, Mountain fruits",
+        "Quantity": "1 pc",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2021/04/bel.jpg"
+    },
+    {
+        "categori": "FRUITS",
+        "title": "Hilly Pineapple (আনারস)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 85",
+        "SKU": "pineapple-1-pc",
+        "Categories": "Hilly Bazar, Fruits, Mountain fruits",
+        "Quantity": "1 pc",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2021/04/anaros-300x300.jpg"
+    },
+    {
+        "categori": "FRUITS",
+        "title": "Hilly Sugar Apple (আতা)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 290",
+        "SKU": "ata-1-kg",
+        "Categories": "Hilly Bazar, Fruits, Mountain fruits",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2023/02/New-Project-36.webp"
+    },
+    {
+        "categori": "FRUITS",
+        "title": "Hilly Watermelon (তরমুজ)/ কেজি",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 85",
+        "SKU": "watermelon-1-kg",
+        "Categories": "Hilly Bazar, Fruits, Mountain fruits",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2023/02/New-Project-45.webp"
+    },
+    {
+        "categori": "FRUITS",
+        "title": "Cashew Nut (কাজু বাদাম)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 385 – ৳ 749",
+        "SKU": "cashew-nut-kazu-badam-500-gm",
+        "Categories": "Hilly Bazar, Fruits, Mountain fruits",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2021/05/kaju.png"
+    },
+    {
+        "categori": "FRUITS",
+        "title": "Apricot (এপ্রিকট)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 395",
+        "SKU": "apricot-250-gm",
+        "Categories": "Dates, Fruits",
+        "Quantity": "250 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2021/02/appri.png"
+    },
+    {
+        "categori": "MEAT",
+        "title": "Beijing Duck (হাঁস)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 580",
+        "SKU": "duck-hash-1-kg",
+        "Categories": "Duck, Meat",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/10/Beijing-Duck.webp"
+    },
+    {
+        "categori": "MEAT",
+        "title": "Beef (CTG Only)(হাড় সহ)(+_ 50 gm/KG)",
+        "subTitle": "শুধুমাত্র  চট্টগ্রাম সিটির জন্য অর্ডার নেয়া হয়।",
+        "price": "৳ 870",
+        "SKU": "beef-bone-in-ctg-1-kg",
+        "Categories": "Beef, Meat",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2021/03/beef-bone-in.png"
+    },
+    {
+        "categori": "MEAT",
+        "title": "Beef (হাড় ছাড়া) (+_ 50 gm)",
+        "subTitle": "শুধুমাত্র ঢাকা সিটির জন্য অর্ডার নেয়া হয়।",
+        "price": "৳ 1,100",
+        "SKU": "beef-boneless-1-kg",
+        "Categories": "Meat, Beef",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/06/Beef-Boneless_61528d01210544b1f2da99c44d4be994.jpg"
+    },
+    {
+        "categori": "MEAT",
+        "title": "Natural Broiler Chicken (ব্রয়লার মুরগি) (Skin Off)",
+        "subTitle": "নোট: ওজনের ভিত্তিতে চূড়ান্ত মূল্য নির্ধারিত হবে। সাধারণত প্রতিটি চিকেনের ওজন প্রসেসের পর ১ – ২ কেজি হয়ে থাকে। ",
+        "price": "৳ 475",
+        "SKU": " khaas-natural-broiler-1-kg",
+        "Categories": "Chicken, Meat",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/11/Untitled-1.jpg"
+    },
+    {
+        "categori": "MEAT",
+        "title": "Beef (CTG Only) (হাড় ছাড়া) (+_ 50 gm)",
+        "subTitle": "শুধুমাত্র চট্টগ্রাম সিটির জন্য অর্ডার নেয়া হয়।",
+        "price": "৳ 1,090",
+        "SKU": "beef-boneless-ctg-1-kg",
+        "Categories": "Beef, Meat",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/06/Beef-Boneless_61528d01210544b1f2da99c44d4be994.jpg"
+    },
+    {
+        "categori": "MEAT",
+        "title": "Hilly Chicken (Live) (পাহাড়ি মুরগি)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 950",
+        "SKU": " Hill Track Chicken",
+        "Categories": "Natural and Organic",
+        "Quantity": " 1 kg – 3 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2021/08/New-Project-32.webp"
+    },
+    {
+        "categori": "MEAT",
+        "title": "Beef Liver (কলিজা)",
+        "subTitle": "শুধু মাত্র ঢাকা সিটির জন্য অর্ডার নেয়া হয়।",
+        "price": "৳ 880",
+        "SKU": "beef-liver-1-kg",
+        "Categories": " Meat, Beef, Uncategorized",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/06/Beef-Liver_deb01e377beb7d264b70ada785013d04.jpg"
+    },
+    {
+        "categori": "MEAT",
+        "title": "Beef (CTG Only)(হাড় সহ)(+_ 50 gm/KG)",
+        "subTitle": "শুধুমাত্র  চট্টগ্রাম সিটির জন্য অর্ডার নেয়া হয়।",
+        "price": "৳ 870",
+        "SKU": "beef-bone-in-ctg-1-kg",
+        "Categories": "Beef, Meat",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2021/03/beef-bone-in.png"
+    },
+    {
+        "categori": "DAIRY",
+        "title": "Plain Buttermilk (মাঠা)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 62",
+        "SKU": "matha-250-ml",
+        "Categories": "Dairy",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2023/03/New-Project-51.webp"
+    },
+    {
+        "categori": "DAIRY",
+        "title": "Milk (Sylhet Only) (দুধ)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 100",
+        "SKU": "milk-sylhet-only-1-liter",
+        "Categories": "Dairy",
+        "Quantity": " 1 liter",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/12/Milk-E.jpg"
+    },
+    {
+        "categori": "DAIRY",
+        "title": "Full Cream Milk Powder (দুধ পাউডার)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 410",
+        "SKU": "full-cream-milk-powder-500-gm",
+        "Categories": "Dairy",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/06/milk-powder-1.jpg"
+    },
+    {
+        "categori": "DAIRY",
+        "title": "Milk (Sylhet Only) (দুধ)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 100",
+        "SKU": "milk-sylhet-only-1-liter",
+        "Categories": "Dairy",
+        "Quantity": " 1 liter",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/12/Milk-E.jpg"
+    },   
+    {
+        "categori": "FISH",
+        "title": "Organic Loitta (লইট্ট্যা) Dry Fish",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 360",
+        "SKU": "organic-loitta-dry-fish-200-gm",
+        "Categories": "Fish, Organic Dry Fish",
+        "Quantity": "200 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/12/Loittah-Shutki.webp"
+    },
+    {
+        "categori": "FISH",
+        "title": "Chapa Dry Fish – চ্যাঁপা শুঁটকি",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 145",
+        "SKU": "chepa-dry-fish-250gm",
+        "Categories": "Fish, Non Organic Dry Fish",
+        "Quantity": "250 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/11/Chepa-Shutki-100gm.png"
+    },
+    {
+        "categori": "FISH",
+        "title": "Organic Mola Dry Fish",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 125",
+        "SKU": "organic-mola-dry-fish-100-gm",
+        "Categories": "Fish, Organic Dry Fish",
+        "Quantity": "100 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/12/Mola-Shutki.jpeg"
+    },
+    {
+        "categori": "FISH",
+        "title": "Organic Churi Dry Fish (ছুরি শুঁটকি)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য",
+        "price": "৳ 600",
+        "SKU": "organic-churi-dry-fish-200-gm",
+        "Categories": "Fish, Organic Dry Fish",
+        "Quantity": "200 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/12/Churi-Shutki.webp"
+    },
+    {
+        "categori": "HONEY",
+        "title": "Black Seed Honey (কালিজিরা মধু)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 310",
+        "SKU": "black-seed-honey-1-kg",
+        "Categories": "Box Honey, Honey",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2021/01/Black-seed-honey-1-kg.webp"
+    },
+    {
+        "categori": "HONEY",
+        "title": "Mixed Flower Honey (মিশ্র ফুলের মধু)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 140",
+        "SKU": "Mixed Flower Honey",
+        "Categories": " Natural and Organic",
+        "Quantity": "100, 250, 500 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/08/mixed-honey.jpg"
+    },
+    {
+        "categori": "HONEY",
+        "title": "Sundarban Box Honey (সুন্দরবনের চাষের মধু)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 265 – ৳ 990",
+        "SKU": "Sundarban Box Honey",
+        "Categories": "Natural and Organic",
+        "Quantity": "100, 250, 500gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/12/Sundarban-Box-Honey-250gm-E.jpg"
+    },
+    {
+        "categori": "HONEY",
+        "title": "Mixed Flower Honey (মিশ্র ফুলের মধু)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 140",
+        "SKU": "Mixed Flower Honey",
+        "Categories": " Natural and Organic",
+        "Quantity": "100, 250, 500 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/08/mixed-honey.jpg"
+    },
+    {
+        "categori": "PICKLE & CHUTNEY",
+        "title": "Bombay Chili Pickle (বোম্বাই মরিচের আচার)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 200",
+        "SKU": "bombay-chili-pickle-200-gm",
+        "Categories": "Pickle & Chutney, Pickle",
+        "Quantity": "200 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/09/Bombay-Chili-Pickle-200gm-1.jpg"
+    },
+    {
+        "categori": "PICKLE & CHUTNEY",
+        "title": "Dates Chutney (খেজুর চাটনি)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 240",
+        "SKU": "Dates Chutney",
+        "Categories": "KHAAS FOOD",
+        "Quantity": "225 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/06/Dates-Chutney-400gm.jpg"
+    },
+    {
+        "categori": "PICKLE & CHUTNEY",
+        "title": "Prunes (আলুবোখারা) Chutney",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 260",
+        "SKU": "Prunes (Alubukhara) Chutney",
+        "Categories": " KHAAS FOOD",
+        "Quantity": "345 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/12/Prunes-Chutney-400gm.jpg"
+    },
+    {
+        "categori": "PICKLE & CHUTNEY",
+        "title": "Olive Chutney (জলপাই চাটনি)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 240",
+        "SKU": "olive-chutney-400-gm",
+        "Categories": "Pickle & Chutney, Chutney",
+        "Quantity": "400 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2022/11/New-Project-5-3.webp"
+    },
+    {
+        "categori": "PICKLE & CHUTNEY",
+        "title": "Tamarind Chutney (তেঁতুল চাটনি)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 150",
+        "SKU": "Tamarind Chutney",
+        "Categories": "Natural and Organic",
+        "Quantity": "200 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/11/Tamarind-Chutney-400gm.jpg"
+    },
+    {
+        "categori": "PICKLE & CHUTNEY",
+        "title": "Garlic Pickle (রসুনের আচার)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 215",
+        "SKU": "Garlic Pickle",
+        "Categories": " Pickle & Chutney, Pickle",
+        "Quantity": "400 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2020/08/Garlic-Pickle-400gm-E.jpg"
+    },
+    {
+        "categori": "PICKLE & CHUTNEY",
+        "title": "Mixed Fruit Chutney (মিক্স চাটনি)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 135",
+        "SKU": "Mixed Fruit Chutney",
+        "Categories": "Natural and Organic",
+        "Quantity": "300 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/12/Mixed-Fruits-Chutney-400gm.jpg"
+    },
+    {
+        "categori": "PICKLE & CHUTNEY",
+        "title": "Prunes (আলুবোখারা) Chutney",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 260",
+        "SKU": "Prunes (Alubukhara) Chutney",
+        "Categories": " KHAAS FOOD",
+        "Quantity": "345 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/12/Prunes-Chutney-400gm.jpg"
+    },
+    {
+        "categori": "TEA & SNACKS",
+        "title": "Premium Black Tea (ব্ল্যাক চা)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 300",
+        "SKU": "Premium Black Tea",
+        "Categories": "Natural and Organic",
+        "Quantity": "500 gm",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/11/Premium-Black-Tea-250gm-E.jpg"
+    },
+    {
+        "categori": "TEA & SNACKS",
+        "title": "Hand Made Puffed Rice (বরিশালের মুড়ি)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 45",
+        "SKU": "hand-made-puffed-rice-from-barishal-500gm",
+        "Categories": "Tea & Snacks, Snacks",
+        "Quantity": "1 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2019/11/Puffed-Rice-J-1.jpg"
+    },
+    {
+        "categori": "TEA & SNACKS",
+        "title": "Chicken Roll (চিকেন রোল)",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 230",
+        "SKU": " chicken-roll-12-pcs",
+        "Categories": "Tea & Snacks, Frozen Snacks",
+        "Quantity": "12 PC",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2021/10/role.png"
+    },
+    {
+        "categori": "TEA & SNACKS",
+        "title": "Sakura Black Plum",
+        "subTitle": "প্রতি সোমবার ও মংগলবার ডেলিভারির জন্য প্রি-অর্ডার নেয়া হয় (শুধুমাত্র ঢাকা ও চট্টগ্রাম শহরের জন্য)",
+        "price": "৳ 290",
+        "SKU": "sakura-black-plum-220-gm",
+        "Categories": "Tea & Snacks, Snacks",
+        "Quantity": "2 kg",
+        "image": "https://www.khaasfood.com/wp-content/uploads/2022/04/Sakura-Black-Plum.jpg"
+    }
+    
+]
