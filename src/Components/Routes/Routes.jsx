@@ -6,6 +6,7 @@ import Categoris from "../Products/Categoris";
 import Register from "../Register/Register";
 import Login from "../../Login/Login";
 import FruitsMain from "../../HomeToDatails/Fruits/FruitsMain";
+import AddToCard from "../../HomeComponents/AddToCard/AddToCard";
 
 
 
@@ -25,6 +26,11 @@ export const router= createBrowserRouter([
             {
                 path: "/login",
                 element: <Login></Login>
+            },
+            {
+                path: "/addToCard/:id",
+                element: <AddToCard> </AddToCard>,
+                loader: async ({params}) => fetch(`http://localhost:5000/fruits/${params.id}`)
             },
             {
                 path:"/fruits",
