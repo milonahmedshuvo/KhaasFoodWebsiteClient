@@ -3,7 +3,7 @@ import Footer from './Components/Shared/Footer'
 import { RouterProvider } from 'react-router-dom'
 import { router } from './Components/Routes/Routes'
 import './index.css'
-
+import toast, { Toaster } from 'react-hot-toast';
 
 
 function App() {
@@ -18,6 +18,8 @@ function App() {
         <RouterProvider router={router} >
         </RouterProvider>
 
+
+        <Toaster />
       </div>
     </>
   )

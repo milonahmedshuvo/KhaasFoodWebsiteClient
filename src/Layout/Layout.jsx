@@ -14,7 +14,7 @@ const Layout = () => {
       <Header2></Header2>
       <Header></Header>
       <Outlet></Outlet>
-      {/* <Footer></Footer> */}
+      <Footer></Footer>
     </div>
   )
 }

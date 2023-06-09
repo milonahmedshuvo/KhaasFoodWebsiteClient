@@ -1,6 +1,6 @@
-import React from 'react'
+import { useContext } from 'react'
 import { Link } from 'react-router-dom'
-
+import { DiclareContext } from '../AuthProviderApp/AuthProviderApp'
 
 
 
@@ -8,11 +8,17 @@ import { Link } from 'react-router-dom'
 
 
 const Header = () => {
+         
+          const {user }= useContext(DiclareContext)
+          console.log(user)
+
+        
 
 
   const manuber = <>
 
-    <li> <Link to='/' className='text-red-500'> LOGIN/REGISTER</Link>   </li>
+    <li> <Link to='/register' className='text-red-500'>REGISTER</Link>   </li>
+    <li> <Link to='/login' className='text-red-500'>LOGIN</Link>   </li>
     <li> <Link to='/'> PRODUCTS</Link>   </li>
     <li> <Link to='/'> BLOG</Link>   </li>
     <li> <Link to='/'> CAREER</Link>   </li>
