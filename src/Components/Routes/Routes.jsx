@@ -5,6 +5,7 @@ import ProductsLayout from "../Products/ProductsLayout";
 import Categoris from "../Products/Categoris";
 import Register from "../Register/Register";
 import Login from "../../Login/Login";
+import FruitsMain from "../../HomeToDatails/Fruits/FruitsMain";
 
 
 
@@ -24,6 +25,10 @@ export const router= createBrowserRouter([
             {
                 path: "/login",
                 element: <Login></Login>
+            },
+            {
+                path:"/fruits",
+                element: <FruitsMain></FruitsMain>
             },
             {
                 path: "/products",

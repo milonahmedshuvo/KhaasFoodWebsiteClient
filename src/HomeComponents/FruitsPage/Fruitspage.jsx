@@ -1,6 +1,10 @@
 import { useQuery } from '@tanstack/react-query'
 import React from 'react'
 import Fruits from './Fruits'
+import { Link } from 'react-router-dom'
+
+
+
 
 const Fruitspage = () => {
 
@@ -29,7 +33,9 @@ const Fruitspage = () => {
        </div>
 
        <div className='text-end mr-6 mt-4'>
-       <button className="btn btn-sm bg-[#6CA300] border-none hover:bg-[#6CA300] ">See All</button>
+       <button className="btn btn-sm bg-[#6CA300] border-none hover:bg-[#6CA300] ">
+        <Link to="/fruits" >See All</Link>
+        </button>
        </div>
     </div>
   )
