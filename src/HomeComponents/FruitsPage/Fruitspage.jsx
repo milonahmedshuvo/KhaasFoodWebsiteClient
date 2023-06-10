@@ -34,7 +34,7 @@ const Fruitspage = () => {
 
        <div className='text-end mr-6 mt-4'>
        <button className="btn btn-sm bg-[#6CA300] border-none hover:bg-[#6CA300] ">
-        <Link to="/fruits" >See All</Link>
+        <Link to="/fruits"  className='text-white font-bold'>See All</Link>
         </button>
        </div>
     </div>

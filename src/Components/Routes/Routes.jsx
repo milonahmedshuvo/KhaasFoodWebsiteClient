@@ -7,6 +7,11 @@ import Register from "../Register/Register";
 import Login from "../../Login/Login";
 import FruitsMain from "../../HomeToDatails/Fruits/FruitsMain";
 import AddToCard from "../../HomeComponents/AddToCard/AddToCard";
+import FishMain from "../../HomeToDatails/Fish/FishMain";
+import Honey from "../../HomeComponents/Honey/Honey";
+import SingleHoney from "../../HomeComponents/Honey/SingleHoney";
+import HoneyMain from "../../HomeToDatails/Honey/HoneyMain";
+import MeatMain from "../../HomeToDatails/Meat/MeatMain";
 
 
 
@@ -35,6 +40,19 @@ export const router= createBrowserRouter([
             {
                 path:"/fruits",
                 element: <FruitsMain></FruitsMain>
+            },
+            {   
+                path: '/fishs',
+                element: <FishMain></FishMain>
+
+            },
+            {
+                path: "/honeySee",
+                element: <HoneyMain></HoneyMain>
+            },
+            {
+                path:"/meatSee",
+                element: <MeatMain></MeatMain>
             },
             {
                 path: "/products",

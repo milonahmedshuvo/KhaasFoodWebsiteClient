@@ -1,6 +1,7 @@
 import { useQuery } from '@tanstack/react-query'
 import React from 'react'
 import SingleHoney from './SingleHoney'
+import { Link } from 'react-router-dom'
 
 const Honey = () => {
 
@@ -35,7 +36,9 @@ const Honey = () => {
 
 
         <div className='text-end mr-6 mt-4'>
-            <button className="btn btn-sm bg-[#6CA300] border-none hover:bg-[#6CA300] ">See All</button>
+            <button className="btn btn-sm bg-[#6CA300] border-none hover:bg-[#6CA300] ">
+              <Link to='/honeySee' className='text-white font-bold'> See All </Link>
+              </button>
        </div>
 
     </div>
