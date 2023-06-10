@@ -12,6 +12,7 @@ import Honey from "../../HomeComponents/Honey/Honey";
 import SingleHoney from "../../HomeComponents/Honey/SingleHoney";
 import HoneyMain from "../../HomeToDatails/Honey/HoneyMain";
 import MeatMain from "../../HomeToDatails/Meat/MeatMain";
+import BlogDetails from "../../HomeComponents/Blog/BlogDetails";
 
 
 
@@ -53,6 +54,11 @@ export const router= createBrowserRouter([
             {
                 path:"/meatSee",
                 element: <MeatMain></MeatMain>
+            },
+            {
+                path: "/blogDetails/:id",
+                element: <BlogDetails></BlogDetails>,
+                loader: async ({params}) => fetch(`http://localhost:5000/blogDetails/${params.id}`)
             },
             {
                 path: "/products",
