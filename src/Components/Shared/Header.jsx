@@ -31,7 +31,7 @@ const Header = () => {
 
 
   return (
-    <div>
+    <div className=''>
       <div className="navbar bg-base-100">
         <div className="navbar-start">
           <div className="dropdown">
@@ -54,7 +54,7 @@ const Header = () => {
         {/* maj kane  */}
         <div className="navbar-center w-2/5 hidden lg:flex">
 
-          <input type="text" placeholder="Type here" className="input input-bordered rounded-full input-success w-full " />
+          <input type="text" placeholder="Search here" className="input input-bordered rounded-full input-success w-full " />
         </div>
 
 

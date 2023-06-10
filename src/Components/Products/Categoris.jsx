@@ -1,14 +1,32 @@
 import React from "react";
 import { useLoaderData } from "react-router-dom";
+import CategoriSingle from "./CategoriSingle";
+
+
+
 
 const Categoris = () => {
   const datas = useLoaderData();
+  
 
-  console.log(datas);
+  
 
   return (
     <div>
-      <h1>Categoris food </h1>
+      
+
+
+      <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 px-6 my-28'>
+
+         {
+     datas.map( ( data) => <CategoriSingle
+            key={data._id}
+            data={data}
+                ></CategoriSingle> )
+            }
+          </div>
+
+
     </div>
   );
 };

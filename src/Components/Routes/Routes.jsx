@@ -13,6 +13,7 @@ import SingleHoney from "../../HomeComponents/Honey/SingleHoney";
 import HoneyMain from "../../HomeToDatails/Honey/HoneyMain";
 import MeatMain from "../../HomeToDatails/Meat/MeatMain";
 import BlogDetails from "../../HomeComponents/Blog/BlogDetails";
+import AllProducts from "../AllProducts/AllProducts";
 
 
 
@@ -68,6 +69,10 @@ export const router= createBrowserRouter([
                         path: '/products/name/:id',
                         element: <Categoris></Categoris>,
                         loader: async ({params}) => fetch(`https://khaas-food-server.vercel.app/clikName/${params.id}`)
+                    },
+                    {
+                        path: "/products",
+                        element: <AllProducts></AllProducts>
                     }
                 ]
             }

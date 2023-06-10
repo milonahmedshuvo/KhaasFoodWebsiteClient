@@ -1,5 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import { FaBeer, FaFacebookMessenger, FaInstagramSquare, FaLinkedin, FaYoutubeSquare } from 'react-icons/fa';
+
+
 
 const Header2 = () => {
 
@@ -17,7 +20,8 @@ const Header2 = () => {
 
 
     return (
-        <div>
+        <div className=''>
+            <p className='bg-[#83B735] py-3 w-full'></p>
             <div className="navbar bg-base-100">
                 <div className="navbar-start">
                     <div className="dropdown">
@@ -48,7 +52,10 @@ const Header2 = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn">Get started</a>
+                   <FaFacebookMessenger className='text-2xl text-[#00A3FF] mr-2'/>
+                   <FaInstagramSquare className='text-2xl text-[#C83089] mr-2'/>
+                   <FaLinkedin className='text-2xl text-[#0077B5] mr-2'/>
+                   <FaYoutubeSquare className='text-2xl text-[#FF0000] mr-2'/>
                 </div>
             </div>
         </div>

@@ -24,10 +24,10 @@ const ClientReview = () => {
              <FaStar className='ml-2 mt-1 text-[#FFC000]'/>
              <FaStarHalfAlt className='ml-2 mt-1 mr-3 text-[#FFC000]'/>
             
-            <span className='font-semibold '>for Customer Support</span>
+            <span className='font-semibold '>from Sami ville</span>
             </p>
 
-            <p className='text-sm'>Great theme, functions perfectly, and great support team! They react fast, and send you video link to explain how to solve your issues yourself, so you can do it anytime!</p>
+            <p className='text-sm'>The service is easy to use, it collects a lot of responses from our customers and gives us valuable information about!</p>
         </div>
 
 
@@ -41,10 +41,10 @@ const ClientReview = () => {
              <FaStar className='ml-2 mt-1 text-[#FFC000]'/>
              <FaStarHalfAlt className='ml-2 mt-1 mr-3 text-[#FFC000]'/>
             
-            <span className='font-semibold '>for Customer Support</span>
+            <span className='font-semibold '>from Mikko Kuhalampi</span>
             </p>
 
-            <p className='text-sm'>Great theme, functions perfectly, and great support team! They react fast, and send you video link to explain how to solve your issues yourself, so you can do it anytime!</p>
+            <p className='text-sm'>Excellent service and easy implementation. Quick process to start using and get reviews and testimonials for your web !</p>
         </div>
 
 
@@ -58,10 +58,10 @@ const ClientReview = () => {
              <FaStar className='ml-2 mt-1 text-[#FFC000]'/>
              <FaStarHalfAlt className='ml-2 mt-1 mr-3 text-[#FFC000]'/>
             
-            <span className='font-semibold '>for Customer Support</span>
+            <span className='font-semibold '>from Ilkka Ahonen</span>
             </p>
 
-            <p className='text-sm'>Great theme, functions perfectly, and great support team! They react fast, and send you video link to explain how to solve your issues yourself, so you can do it anytime!</p>
+            <p className='text-sm'>We’re getting precious feedback from our customers and more leads with the help of the reviews. The service is great!!</p>
         </div>
 
 
@@ -76,10 +76,10 @@ const ClientReview = () => {
              <FaStar className='ml-2 mt-1 text-[#FFC000]'/>
              <FaStarHalfAlt className='ml-2 mt-1 mr-3 text-[#FFC000]'/>
             
-            <span className='font-semibold '>for Customer Support</span>
+            <span className='font-semibold '>from marko wlson</span>
             </p>
 
-            <p className='text-sm'>Great theme, functions perfectly, and great support team! They react fast, and send you video link to explain how to solve your issues yourself, so you can do it anytime!</p>
+            <p className='text-sm'>Platform is super easy to use and is getting better and more versatile all the time!</p>
         </div>
 
 
